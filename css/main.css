@@ -1,0 +1,251 @@
+@import "reset.css";
+
+.Page {
+  margin: 0 auto;
+  width: 60%;
+}
+
+a:visited {
+  color:black;
+}
+
+a {
+  color:black;
+  font-family: helvetica;
+}
+
+.first {
+  color: black;
+  font-size: 115pt;
+  font-family: helvetica;
+  font-weight: bold;
+  margin-top: 3%;
+  margin-left: 19.5%;
+}
+
+.second {
+  font-family: helvetica;
+  font-weight: regular;
+  margin-top: 0%;
+  font-size: 30pt;
+
+}
+
+hr {
+  margin-top: 3%;
+  height: 1pt;
+  background: black;
+  border: none;
+}
+
+.mainpic {
+position:absolute;
+left: 54%;
+margin-top: -15%;
+}
+.frst {
+  margin-right: 49%;
+  margin-left: 20%;
+}
+.introduce {
+  margin-top: 4%;
+  font-family: helvetica;
+  font-size: 11pt;
+  text-align: left;
+  margin-left: 36%;
+
+}
+
+
+
+.menu a {
+  padding: 5%;
+  font-size: 30pt;
+  font-family: helvetica;
+}
+.menu {
+  text-align: center;
+  margin-top: 1%;
+
+}
+.letters {
+  font-weight: bold;
+}
+
+.week1 {
+  font-size: 30pt;
+  font-weight: bold;
+  font-family: helvetica;
+  text-align: center;
+  margin-top: 6%;
+}
+
+.img1 {
+  padding-top: 60px;
+  font-family: helvetica;
+  font-size: 20px;
+}
+
+.img2 {
+  padding-top: 50px;
+  font-family: helvetica;
+  font-size: 20px;
+}
+
+.img3 {
+  padding-top: 50px;
+  font-family: helvetica;
+  font-size: 20px;
+}
+
+.week2 {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: helvetica;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.img4 {
+  padding-top: 70px;
+  font-family: helvetica;
+  font-size: 20px;
+}
+
+.img5 {
+  padding-top: 50px;
+  font-family: helvetica;
+  font-size: 20px;
+}
+
+.img6 {
+  padding-top: 50px;
+  font-family: helvetica;
+  font-size: 20px;
+}
+
+.img7 {
+  padding-top: 50px;
+  font-family: helvetica;
+  font-size: 20px;
+}
+
+.img8 {
+  padding-top: 50px;
+  font-family: helvetica;
+  font-size: 20px;
+}
+
+.img9 {
+  padding-top: 50px;
+  font-family: helvetica;
+  font-size: 20px;
+}
+
+.week3 {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: helvetica;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.img10 {
+  padding-top: 70px;
+  font-family: helvetica;
+  font-size: 20px;
+}
+
+.img11 {
+  padding-top: 50px;
+  font-family: helvetica;
+  font-size: 20px;
+}
+
+.week4 {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: helvetica;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.img12 {
+  padding-top: 70px;
+  font-family: helvetica;
+  font-size: 20px;
+}
+
+.img13 {
+  padding-top: 50px;
+  font-family: helvetica;
+  font-size: 20px;
+}
+
+.week5 {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: helvetica;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.img14 {
+  padding-top: 70px;
+  font-family: helvetica;
+  font-size: 20px;
+}
+
+.img15 {
+  padding-top: 50px;
+  font-family: helvetica;
+  font-size: 20px;
+}
+
+.s15 {
+  padding-top: 60px;
+  font-family: helvetica;
+  font-size: 20px;
+}
+.week6 {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: helvetica;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.img16 {
+  padding-top: 70px;
+  font-family: helvetica;
+  font-size: 20px;
+}
+
+.img17 {
+  padding-top: 50px;
+  font-family: helvetica;
+  font-size: 20px;
+}
+
+.week7 {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: helvetica;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.img18 {
+  padding-top: 70px;
+  font-family: helvetica;
+  font-size: 20px;
+  margin-bottom: 100px;
+}
+
+.end {
+  padding-top: 50px;
+  font-family: helvetica;
+  font-size: 20px;
+  margin-bottom: 60px;
+  text-align: center;
+}
